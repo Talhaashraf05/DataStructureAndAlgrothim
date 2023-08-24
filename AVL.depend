@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1645173452 source:d:\study\extra\programs\1\hash\main.cpp
+	<iostream>
+	<windows.h>
+	"include/AVL.h"
+	"include/hashtable.h"
+	"include/loading.h"
+
+1645173452 d:\study\extra\programs\1\hash\include\avl.h
+	"../include/treeNode.h"
+	<fstream>
+
+1644803530 d:\study\extra\programs\1\hash\include\treenode.h
+	<string>
+
+1645173452 d:\study\extra\programs\1\hash\include\hashtable.h
+	<string>
+	"../include/AVL.h"
+	"../include/treeNode.h"
+	"../include/queu.h"
+
+1645173452 d:\study\extra\programs\1\hash\include\queu.h
+	"../include/linklist.h"
+
+1645173452 d:\study\extra\programs\1\hash\include\linklist.h
+	"../include/node.h"
+
+1645173452 d:\study\extra\programs\1\hash\include\node.h
+	"../include/treeNode.h"
+
+1644803384 d:\study\extra\programs\1\hash\include\loading.h
+
+1645173452 source:d:\study\extra\programs\1\hash\src\avl.cpp
+	"../include/AVL.h"
+	<iostream>
+	<windows.h>
+
+1645173452 source:d:\study\extra\programs\1\hash\src\hashtable.cpp
+	"../include/hashtable.h"
+	<iostream>
+	<windows.h>
+
+1645173452 source:d:\study\extra\programs\1\hash\src\linklist.cpp
+	"../include/linklist.h"
+	<iostream>
+
+1645173452 source:d:\study\extra\programs\1\hash\src\loading.cpp
+	"../include/loading.h"
+	<iostream>
+	<windows.h>
+	<dos.h>
+
+1645173452 source:d:\study\extra\programs\1\hash\src\node.cpp
+	"../include/node.h"
+
+1645173452 source:d:\study\extra\programs\1\hash\src\queu.cpp
+	"../include/queu.h"
+	<iostream>
+
+1645173452 source:d:\study\extra\programs\1\hash\src\treenode.cpp
+	"../include/treeNode.h"
+	<string>
+

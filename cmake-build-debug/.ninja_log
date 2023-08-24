@@ -1,0 +1,10 @@
+# ninja log v5
+81	2456	6669234653438426	CMakeFiles/hash.dir/src/node.cpp.obj	d9a42af4e64f7cc3
+76	13393	6669234763481540	CMakeFiles/hash.dir/src/AVL.cpp.obj	9842e64983a78c84
+2472	13423	6669234763351526	CMakeFiles/hash.dir/src/loading.cpp.obj	e234159631bae0c7
+29	13431	6669234763181527	CMakeFiles/hash.dir/src/hashtable.cpp.obj	9e74242bd6bc8485
+13424	15993	6669234790775554	CMakeFiles/hash.dir/src/queu.cpp.obj	c31f7ebb1f584b7a
+13396	16286	6669234793645550	CMakeFiles/hash.dir/src/linklist.cpp.obj	1ec0331d87223659
+15994	16677	6669234797612503	CMakeFiles/hash.dir/src/treeNode.cpp.obj	a183e20a57bc509d
+13431	21491	6669234845748313	CMakeFiles/hash.dir/main.cpp.obj	743a21b9689d6571
+21491	24164	6669234872423597	hash.exe	d21e4bbeac9f612c
